@@ -1,11 +1,8 @@
-package auth0.com.socialloginsample;
+package tranzero.com.sociallogin;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.View;
 
 public class LoggedInActivity extends AppCompatActivity {
 
@@ -16,5 +13,4 @@ public class LoggedInActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
     }
-
 }

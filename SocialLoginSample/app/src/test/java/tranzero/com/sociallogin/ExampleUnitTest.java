@@ -1,4 +1,4 @@
-package auth0.com.socialloginsample;
+package tranzero.com.sociallogin;
 
 import org.junit.Test;
 
